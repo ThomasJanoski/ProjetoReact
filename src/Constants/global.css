@@ -1,0 +1,14 @@
+:root {
+    --backgroundColor: rgb(30, 32, 30);
+    --semiBackgroundColor: rgb(60, 61, 55);
+    --secondaryTextColor: rgb(105, 117, 101);
+    --primaryTextColor: rgb(236, 223, 204);
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+
+    background-color: var(--secondaryTextColor);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
